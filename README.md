@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello everyone, I am a beginner programming student. Currently I am studying in Python language.
 
 <!--
 **rdvrgs/rdvrgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
